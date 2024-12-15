@@ -1,3 +1,3 @@
-Link til frontend repositoriet:
+Link to the frontend repository:
 
-https://github.com/NikolajChristianMoeller/Binary-Search-i-ordbogen-Frontend
+https://github.com/NikolajChristianMoeller/binary-search-in-dictionary-frontend
